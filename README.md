@@ -15,7 +15,7 @@
 ## 🏷 Contact Me
 
 - **📧 Email** : ahyeon041970@gmail.com  
-- **📝 Blog** : [ahyn.dev](https://velog.io/@dev-ahyeon/posts))  
+- **📝 Blog** : [ahyn.dev](https://velog.io/@dev-ahyeon/posts)  
 - **📂 Portfolio** : Coming soon!
 
 <br>
